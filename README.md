@@ -18,9 +18,11 @@
   <img src="https://img.icons8.com/?size=48&id=AU6Wc7r56Fxz&format=png&color=000000"/>
 </p>
 
+<br />
+
 ## Most Used Languages:
 <div>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTuan0611&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="nht" width="100%"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTuan0611&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=8" alt="nht" width="100%"/>
 </div>
 
 <br />
@@ -34,6 +36,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
+<br />
 
 # Certificates:
 
