@@ -1,14 +1,22 @@
 <h2 align="center">Hi 👋, I'm Tuan</h2>
 <br />
 
+<div align="center">
+
+![Header Animation](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:111827&height=200&section=header&text=🚀%20Welcome%20to%20my%20GitHub!%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn)
+  
+</div>
+
+
 ## Here's my portfolio:
 
-<h4>I'm a hardworking and dedicated person, love to explore and am curious about new knowledge</h4>
+<h4 align="center">I'm a hardworking and dedicated person, love to explore and am curious about new knowledge</h4>
+
 
 <br />
 
 ## Technical skills:
-<p>
+<p align="center">
   <img src="https://img.icons8.com/?size=48&id=123603&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=20909&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=7gdY5qNXaKC0&format=png&color=000000"/>
@@ -30,7 +38,7 @@
 <br />
 
 ## 📫 Reach me out:
-<p dir="auto">
+<p dir="auto" align="center">
   <a href="https://www.linkedin.com/in/hoangtuan99/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
