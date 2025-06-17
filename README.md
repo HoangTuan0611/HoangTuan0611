@@ -22,7 +22,7 @@
 
 ## Most Used Languages:
 <div>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTuan0611&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=6" alt="nht" width="100%"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangTuan0611&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=4" alt="nht" width="100%"/>
 </div>
 
 <br />
